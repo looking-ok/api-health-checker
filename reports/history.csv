@@ -14,3 +14,8 @@ checked_at,name,url,ok,status_code,elapsed_ms,timeout,error,body_snippet
 2026-10-04T22:07:02+00:00,百度,https://www.baidu.com,True,200,803,False,,"<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv=""Content-Type"" content=""text/html;charse"
 2026-10-04T22:07:02+00:00,必应中国,https://cn.bing.com,True,200,168,False,,"<!doctype html><html lang=""zh"" dir=""ltr""><head><meta name=""theme-color"" content=""#4F4F4F"" /><meta na"
 2026-10-04T22:07:02+00:00,墨听 Releases,https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest,True,200,609,False,,"<!DOCTYPE html> <html lang=""en"" data-color-mode=""auto"" data-light-theme=""light"" data-dark-theme=""dar"
+2026-10-04T23:05:20+00:00,GitHub API,https://api.github.com/zen,True,200,36,False,,Half measures are as bad as nothing at all.
+2026-10-04T23:05:20+00:00,GitHub 状态页,https://www.githubstatus.com/api/v2/status.json,True,200,67,False,,"{""page"":{""id"":""kctbh9vrtdwd"",""name"":""GitHub"",""url"":""https://www.githubstatus.com"",""time_zone"":""Etc/U"
+2026-10-04T23:05:20+00:00,百度,https://www.baidu.com,True,200,1098,False,,"<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv=""Content-Type"" content=""text/html;charse"
+2026-10-04T23:05:20+00:00,必应中国,https://cn.bing.com,True,200,87,False,,"<!doctype html><html lang=""zh"" dir=""ltr""><head><meta name=""theme-color"" content=""#4F4F4F"" /><meta na"
+2026-10-04T23:05:20+00:00,墨听 Releases,https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest,True,200,410,False,,"<!DOCTYPE html> <html lang=""en"" data-color-mode=""auto"" data-light-theme=""light"" data-dark-theme=""dar"
