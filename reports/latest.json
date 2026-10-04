@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T21:21:40+00:00",
+  "checked_at": "2026-10-04T22:07:02+00:00",
   "all_ok": true,
   "results": [
     {
@@ -7,17 +7,17 @@
       "url": "https://api.github.com/zen",
       "ok": true,
       "status_code": 200,
-      "elapsed_ms": 154,
+      "elapsed_ms": 76,
       "timeout": false,
       "error": "",
-      "body_snippet": "Responsive is better than fast."
+      "body_snippet": "Practicality beats purity."
     },
     {
       "name": "GitHub 状态页",
       "url": "https://www.githubstatus.com/api/v2/status.json",
       "ok": true,
       "status_code": 200,
-      "elapsed_ms": 134,
+      "elapsed_ms": 58,
       "timeout": false,
       "error": "",
       "body_snippet": "{\"page\":{\"id\":\"kctbh9vrtdwd\",\"name\":\"GitHub\",\"url\":\"https://www.githubstatus.com\",\"time_zone\":\"Etc/UTC\",\"updated_at\":\"2026-10-04T19:54:07.959Z\"},\"status\":{\"indicator\":\"none\",\"description\":\"All Systems"
@@ -27,7 +27,7 @@
       "url": "https://www.baidu.com",
       "ok": true,
       "status_code": 200,
-      "elapsed_ms": 915,
+      "elapsed_ms": 803,
       "timeout": false,
       "error": "",
       "body_snippet": "<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\"><meta content=\"origin-when-cr"
@@ -37,7 +37,7 @@
       "url": "https://cn.bing.com",
       "ok": true,
       "status_code": 200,
-      "elapsed_ms": 102,
+      "elapsed_ms": 168,
       "timeout": false,
       "error": "",
       "body_snippet": "<!doctype html><html lang=\"zh\" dir=\"ltr\"><head><meta name=\"theme-color\" content=\"#4F4F4F\" /><meta name=\"description\" content=\"使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。\" "
@@ -47,7 +47,7 @@
       "url": "https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest",
       "ok": true,
       "status_code": 200,
-      "elapsed_ms": 563,
+      "elapsed_ms": 609,
       "timeout": false,
       "error": "",
       "body_snippet": "<!DOCTYPE html> <html lang=\"en\" data-color-mode=\"auto\" data-light-theme=\"light\" data-dark-theme=\"dark\" data-a11y-animated-images=\"system\" data-a11y-link-underlines=\"true\" > <head> <meta charset=\"utf-8"
