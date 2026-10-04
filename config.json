@@ -1,0 +1,30 @@
+{
+  "targets": [
+    {
+      "name": "GitHub API",
+      "url": "https://api.github.com/zen",
+      "timeout": 10
+    },
+    {
+      "name": "GitHub 状态页",
+      "url": "https://www.githubstatus.com/api/v2/status.json",
+      "timeout": 10,
+      "expect_keyword": "indicator"
+    },
+    {
+      "name": "百度",
+      "url": "https://www.baidu.com",
+      "timeout": 5
+    },
+    {
+      "name": "必应中国",
+      "url": "https://cn.bing.com",
+      "timeout": 5
+    },
+    {
+      "name": "墨听 Releases",
+      "url": "https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest",
+      "timeout": 15
+    }
+  ]
+}
