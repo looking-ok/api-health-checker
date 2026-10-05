@@ -54,3 +54,8 @@ checked_at,name,url,ok,status_code,elapsed_ms,timeout,error,body_snippet
 2026-10-05T06:12:22+00:00,百度,https://www.baidu.com,True,200,4198,False,,"<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv=""Content-Type"" content=""text/html;charse"
 2026-10-05T06:12:22+00:00,必应中国,https://cn.bing.com,True,200,238,False,,"<!doctype html><html lang=""zh"" dir=""ltr""><head><meta name=""theme-color"" content=""#4F4F4F"" /><meta na"
 2026-10-05T06:12:22+00:00,墨听 Releases,https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest,True,200,590,False,,"<!DOCTYPE html> <html lang=""en"" data-color-mode=""auto"" data-light-theme=""light"" data-dark-theme=""dar"
+2026-10-05T07:12:51+00:00,GitHub API,https://api.github.com/zen,True,200,113,False,,Encourage flow.
+2026-10-05T07:12:51+00:00,GitHub 状态页,https://www.githubstatus.com/api/v2/status.json,True,200,168,False,,"{""page"":{""id"":""kctbh9vrtdwd"",""name"":""GitHub"",""url"":""https://www.githubstatus.com"",""time_zone"":""Etc/U"
+2026-10-05T07:12:51+00:00,百度,https://www.baidu.com,True,200,2930,False,,"<!DOCTYPE html><!--STATUS OK--><html><head><meta http-equiv=""Content-Type"" content=""text/html;charse"
+2026-10-05T07:12:51+00:00,必应中国,https://cn.bing.com,True,200,128,False,,"<!doctype html><html lang=""zh"" dir=""ltr""><head><meta name=""theme-color"" content=""#4F4F4F"" /><meta na"
+2026-10-05T07:12:51+00:00,墨听 Releases,https://github.com/jwoo1982217-eng/MoTing-Releases/releases/latest,True,200,432,False,,"<!DOCTYPE html> <html lang=""en"" data-color-mode=""auto"" data-light-theme=""light"" data-dark-theme=""dar"
