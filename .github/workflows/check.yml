@@ -2,7 +2,7 @@ name: API 健康检查
 
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时自动运行一次（UTC 整点）
+    - cron: "0 18 */2 * *" # 每隔一天运行一次（UTC 18:00 ≈ 北京时间次日凌晨 2 点）
   workflow_dispatch: # 支持在 Actions 页面手动触发
 
 permissions:
