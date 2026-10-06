@@ -55,7 +55,7 @@ python checker.py
 
 仓库已配置 GitHub Actions（`.github/workflows/check.yml`）：
 
-- **每小时自动运行**一次，结果自动提交到 `reports/`
+- **每 48 小时自动运行**一次，结果自动提交到 `reports/`
 - 也可以在仓库 **Actions → API 健康检查 → Run workflow** 手动触发
 
 ## 注意事项
